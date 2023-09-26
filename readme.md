@@ -32,3 +32,27 @@
 - 类的继承
 - 类的其他特性
 - Python 迭代器与生成器
+
+### Chapter 4 - Python 数据处理及可视化
+
+- Numpy 初体验
+- Pandas 初体验
+- Matplotlib 接口和常用图形
+- Matplotlib 子图与多子图
+- Matplotlib 图形配置
+
+### Chapter 5 - Python 高阶使用
+
+- Python 正则表达式
+- Python 计算思维训练——文件操作与异常处理
+- Python 堆栈与队列
+- Python 数据解析：JSON 与 XML
+- Python —— 进程和线程
+
+### Chapter 6 - 机器学习软件包使用
+
+- Python 机器学习软件包 Scikit-Learn 的学习与运用
+- 理解机器学习基本概念：从电影预测评分讲起
+- TensorFlow 初体验
+- PyTorch 之线性回归
+- K-means 聚类算法
