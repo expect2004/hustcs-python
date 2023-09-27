@@ -1,0 +1,6 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<data count = "3">
+    <student name = "赵昊" age = "15" sex = "男性"></student>
+    <student name = "龙傲天" age = "16" sex = "男性"></student>
+    <student name = "玛丽苏" age = "15" sex = "女性"></student>
+</data>

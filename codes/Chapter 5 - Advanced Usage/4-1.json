@@ -1,0 +1,9 @@
+{
+    "students":
+    [
+        {"name": "赵昊", "age": 15, "ismale": true},
+        {"name": "龙傲天", "age": 16, "ismale": true},
+        {"name": "玛丽苏", "age": 15, "ismale": false}
+    ],
+    "count": 3
+}
